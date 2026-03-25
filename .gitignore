@@ -9,6 +9,7 @@ dist
 # Project Documentation & Agent Coordination
 .docs/
 planning/
+shared/
 AGENTS.md
 DEPLOYMENT.md
 ERROR_LOG.md
